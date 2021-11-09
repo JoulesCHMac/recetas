@@ -14,3 +14,6 @@ if __name__ == '__main__':
 #  - Heroku: Cuenta de estudiante
 #  - Google Cloud: Prueba gratuita.
     
+# foreground
+
+# Docker
